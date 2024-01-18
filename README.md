@@ -30,7 +30,10 @@
 캐릭터 -> 리소스뱅크 
 
 시작화면 -> 직접 제작
-
+<br></br>
+#### 🧾개발일지 블로그
+https://blog.naver.com/leeseohyun61
+<br></br>
 ![시작화면](https://github.com/leeseohyun02/Raindrop/assets/78461967/4d1d412a-321e-46bc-ba70-8b6e2a9b4301)
 ![플레이화면](https://github.com/leeseohyun02/Raindrop/assets/78461967/1777ae4a-0b83-43b1-b832-7eb6e63b72a0)
 ![엔딩화면](https://github.com/leeseohyun02/Raindrop/assets/78461967/310722df-7e29-4704-9d1b-94e207d9b0d3)
